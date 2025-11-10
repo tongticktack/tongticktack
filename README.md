@@ -18,7 +18,7 @@
 <!-- 교육사항 시작 -->
 <div>
   <h3><b> :books: Education </b></h3>
-  <h5> ⦁ 성균관대학교 소프트웨어학과 2018.03 - </h5>
+  <h5> ⦁ 성균관대학교 소프트웨어학과 2018.03 - 2025.08</h5>
 </div>
 </br>
 <!-- 교육사항 끝 -->
@@ -57,6 +57,7 @@
 
 <!-- Best Repos 시작 -->
 ### 📚 Best Repos
+- [BooBit](https://github.com/boostcampwm-2024/web02-BooBit) 네이버부스트캠프 웹풀스택 9기 최종 프로젝트
 - [Preventra](https://github.com/tongticktack/PreVentra_Server) 2020 솔직 챌린지 수상작
 - [Pickle](https://github.com/SKKU-COOP-PICKLE/server) computer vision 패션 아이템 추천 프로젝트
 <!-- Best Repos 끝 -->
